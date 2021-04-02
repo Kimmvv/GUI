@@ -8,6 +8,7 @@ dependencies:
   - panel == 0.9.5
   - pandas == 1.1.3
   - numpy == 1.19.1
+  - bokeh::bokeh
   - matplotlib == 3.3.4
   
 packages:
