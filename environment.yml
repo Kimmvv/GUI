@@ -1,7 +1,6 @@
 channels:
   - pyviz
   - conda-forge
-  - pip
 dependencies:
   - scipy == 1.5.2
   - scikit-learn == 0.23.2
