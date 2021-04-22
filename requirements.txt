@@ -1,0 +1,10 @@
+scipy 
+scikit-learn 
+param 
+panel 
+pandas 
+numpy 
+bokeh 
+matplotlib 
+pip
+emagpy 
