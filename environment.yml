@@ -1,6 +1,7 @@
 channels:
   - pyviz
   - conda-forge
+  - PyPi
 dependencies:
   - scipy == 1.5.2
   - scikit-learn == 0.23.2
@@ -12,5 +13,4 @@ dependencies:
   - matplotlib == 3.3.4
   - emagpy == 1.1.0
   
-packages:
-- jupyter-panel-proxy
+
